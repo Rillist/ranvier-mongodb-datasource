@@ -1,0 +1,27 @@
+{
+  "name": "ranvier-mongodb-datasource",
+  "version": "1.0.0",
+  "description": "A set of MongoDb datasources for Ranvier MUD",
+  "main": "index.js",
+  "keywords": [
+    "ranvier",
+    "ranviermud",
+    "datasource",
+    "entityloader",
+    "mongo",
+    "mongodb"
+  ],
+  "author": "Chris Witt",
+  "dependencies": {
+    "mongodb": "^3.5.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rillist/ranvier-mongodb-datasource.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rillist/ranvier-mongodb-datasource/issues"
+  },
+  "homepage": "https://github.com/rillist/ranvier-mongodb-datasource#readme"
+}
