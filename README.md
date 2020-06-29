@@ -5,10 +5,12 @@ A set of MongoDb datasources for Ranvier MUD that uses The official [MongoDB](ht
 # Prerequisites
 
 1. You must have a MongoDb database setup and ready to accept connections.
-   1.1 Free Cloud Hosting with [MongoDb Atlas](https://www.mongodb.com/cloud/atlas)
-   1.2 Locally Hosted [Installation Guide](https://docs.mongodb.com/manual/installation/)
+
+   1. Free Cloud Hosting with [MongoDb Atlas](https://www.mongodb.com/cloud/atlas)
+   2. Locally Hosted [Installation Guide](https://docs.mongodb.com/manual/installation/)
+
 2. You must have a Ranvier Mud project created that you intend to add the datasources to.
-   2.1 [Get Started](https://ranviermud.com/get_started/)
+   1. [Get Started](https://ranviermud.com/get_started/)
 
 ## DataSources
 
